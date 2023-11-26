@@ -2,7 +2,7 @@
 
 Code-live interviews for front-end developers often involve real-time problem-solving to assess candidates' coding skills, problem-solving abilities, and familiarity with front-end technologies. Here are 20 challenging tasks that could be used in such interviews:
 
-1. Build a responsive navigation menu that adapts to various screen sizes.
+1. [Build a responsive navigation menu that adapts to various screen sizes.](https://github.com/panahi-projects/top-frontend-code-live-challenges/tree/main/challenge-1)
 2. Create a dynamic form with validation using HTML, CSS, and JavaScript.
 3. Implement a lazy-loading mechanism for images on a webpage.
 4. Build a carousel/slider component from scratch.
