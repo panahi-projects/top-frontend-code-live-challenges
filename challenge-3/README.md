@@ -23,4 +23,4 @@
 `npm run dev`
 
 ## Demo
-![Screenshot](https://github.com/panahi-projects/top-frontend-code-live-challenges/challenge-3/public/blob/main/demo.gif)
+![Screenshot](https://github.com/panahi-projects/top-frontend-code-live-challenges/blob/main/challenge-3/public/responsive-masonary-grid.gif)
