@@ -1,0 +1,22 @@
+{
+  "name": "challenge-3",
+  "description": "Create a masonary image grid with pure CSS and/or Javascript",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "author": {
+    "name": "Saeed Panahi",
+    "email": "panahi.projects@gmail.com"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
